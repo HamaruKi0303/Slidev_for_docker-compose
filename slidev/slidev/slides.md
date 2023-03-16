@@ -78,6 +78,12 @@ h1 {
 
 ## Quick Start
 
+```bash
+docker-compose up
+```
+
+🌟URL:http://localhost:3030/9
+
 ---
 
 ### start docker

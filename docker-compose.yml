@@ -7,3 +7,5 @@ services:
       - ./slidev:/root/slidev
     ports:
       - 3030:3030
+    working_dir: /root/slidev/slidev
+    command: npx slidev --remote
